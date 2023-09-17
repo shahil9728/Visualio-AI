@@ -1,0 +1,6 @@
+[submodule "folder"]
+	path = folder
+	url = https://github.com/Shahil9728/Visualio-frontend
+[submodule "folder1"]
+	path = folder1
+	url = https://github.com/Shahil9728/Visualio-backend
